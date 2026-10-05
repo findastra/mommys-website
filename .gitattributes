@@ -1,0 +1,2 @@
+# Count this repository's Markdown as its language on GitHub.
+*.md linguist-detectable
