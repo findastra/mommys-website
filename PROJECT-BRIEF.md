@@ -1,5 +1,5 @@
 # Mommy's Website
-Existing folder: C:/Users/audra/Documents/ChatGPT/Mommy's Website
+Existing folder: %USERPROFILE%/Documents/ChatGPT/Mommy's Website
 Observed state: .git only. Claude HTML draft not found in the inspected project and reference locations.
 
 ## Brief
