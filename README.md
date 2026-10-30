@@ -24,3 +24,7 @@ is not hosted yet.
 1. Designed by Astra. The saved page and its logo: OpenAI Codex (GPT-6), 2026-10-24; earlier work with Claude Opus 5.5,
    from 2026-10-05.
 2. The picture above is a screenshot of the saved page, 2026-10-29.
+
+## License
+
+No general source license is granted yet. The design and the logo stay Astra's.
